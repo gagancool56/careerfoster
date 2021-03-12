@@ -78,7 +78,7 @@
                                         <ul id="navigation">                                                                                          
                                             <li><a href="<?= base_url() ?>">Home</a></li>
                                             <li><a href="<?= base_url() ?>about-us">About</a></li>
-                                            <li><a href="<?= base_url() ?>industries_served">Industries Served</a></li>
+                                            <li><a href="<?= base_url() ?>industries-served">Industries Served</a></li>
                                             <li><a href="<?= base_url() ?>services">Services</a>
                                                 <ul class="submenu">
                                                     <li><a href="blog.html">Executive Search</a></li>
@@ -89,8 +89,8 @@
                                                     <li><a href="elements.html">Bulk Recruitment</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="<?= base_url() ?>diversity_illusion">Diversity & Illusion</a></li>
-                                            <li><a href="<?= base_url() ?>contact">Contact</a></li>
+                                            <li><a href="<?= base_url() ?>diversity-and-illusion">Diversity & Illusion</a></li>
+                                            <li><a href="<?= base_url() ?>contact-us">Contact</a></li>
                                             <li><a href="<?= base_url() ?>faq">FAQ</a></li>
                                         </ul>
                                     </nav>

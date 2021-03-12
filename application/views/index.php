@@ -10,10 +10,12 @@
                             <div class="hero__caption">
                                 <span data-animation="fadeInLeft" data-delay=".1s">Committed to success</span>
                                 <h1 data-animation="fadeInLeft" data-delay=".5s" >We help to grow your business</h1>
-                                <p data-animation="fadeInLeft" data-delay=".9s">Mollit anim laborum.Dvcuis aute serunt  iruxvfg dhjkolohr indd re voluptate<br> velit esscillumlore eu quife nrulla parihatur.</p>
+                                <p data-animation="fadeInLeft" data-delay=".9s">“To be successful you have to have your heart in your business and your business in your heart”.
+We have our mind, heart and soul in business.
+</p>
                                 <!-- Hero-btn -->
                                 <div class="hero__btn" data-animation="fadeInLeft" data-delay="1.1s">
-                                    <a href="industries.html" class="btn hero-btn">Our Services</a>
+                                    <a href="industries-served.php" class="btn hero-btn">Our Services</a>
                                 </div>
                             </div>
                         </div>

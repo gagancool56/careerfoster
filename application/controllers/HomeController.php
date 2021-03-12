@@ -38,11 +38,6 @@ class HomeController extends CI_Controller
 		$this->load->view('diversity_illusion');
 	}
 
-	public function contact_us()
-	{
-		$this->load->view('contact');
-	}
-
 	public function faq()
 	{
 		$this->load->view('faq');

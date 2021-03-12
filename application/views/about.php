@@ -20,16 +20,50 @@
                     <div class="offset-xl-1 col-lg-8">
                         <div class="about-details-cap mb-50">
                             <h4>Our Mission</h4>
-                            <p>Consectetur adipiscing elit, sued do eiusmod tempor ididunt udfgt labore et dolore magna aliqua. Quis ipsum suspendisces gravida. Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan lacus. Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan lacus.
-                             </p>
-                             <p> Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan lacus. Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan.</p>
+                            <p>At career foster we focus on Providing Talent and Solutions that Contribute to our client’s Productivity and Success. We pride ourselves with matching exceptional talent with fortune 500 companies and other world- class organizations. Acting as a backbone to our company, our experienced consultants take a multi-pronged approach to hire the best talent. We leverage our extensive internal database, reach out through our own networks, as well as variety of social media channels and rely on traditional search methods’ to help you get a perfection of a candidate. We believe that right candidates are out there and we’ll find them for you!.
+                            
+
+
+                          <h5>With Career foster’s qualified and experienced consultants, you can expect:</h5>
+                           </p>
+
+<ul>
+    <li> •  In-depth knowledge and solutions tailored to each client for project success</li>
+<li>•   Attention to detail for business requirements and understanding issues</li>
+<li>•   A proven workflow process that ensures quality and quick turnaround</li>
+<li>•   Investigative Executive Search: We vigorously identify, engage and  recruit your direct competitor talent</li>
+<li>•   Job/Position Performance-Based Profiling & Assessment</li>
+<li>•   Talent-Centric Sourcing</li>
+<li>•   Evidence & Behavioral Based Interviewing</li>
+<li>•   Integrated Recruiting</li>
+</ul>
+ <p> Above all, we offer professional, reliable and honest service, guaranteeing the value of our work and never taking a cookie-cutter approach to consulting.</p>
+</p>
+
+
+  
+                            
                         </div>
 
                         <div class="about-details-cap mb-50">
                             <h4>Our Vision</h4>
-                            <p>Consectetur adipiscing elit, sued do eiusmod tempor ididunt udfgt labore et dolore magna aliqua. Quis ipsum suspendisces gravida. Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan lacus. Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan lacus.
+                            <p>Career Foster gives first rate data innovation answers for organizations needing top ability just as battling to fill aptitudes holes. With innovation moving at the speed of light, we utilize an imaginative enrolling procedure to find the businesses generally looked for after ability and welcome them to you on schedule and on spending plan.
+We focus on recruiting the best talent the industry has to offer. We're devoted to coordinating you with the top 20% of tech experts – trend-setters who are happy to assist you with accomplishing your business objectives. Our spotters convey IT and building arrangements with quantifiable outcomes in time, quality, and spending plan. Converse with us about how we can get first class ability for your business.
+<h5>Our Expertise’s Include:-</h5>
+                           <ul>
+    <li> •Information Technologies</li>
+<li>•Embedded systems/Firmware development </li>
+<li>•Software and Test Development</li>
+<li>•Hardware Engineering </li>
+<li>•  Predictive Modeling </li>
+<li>•    Artificial Intelligence </li>
+<li>•   Data Engineers</li>
+<li>•   Machine Learning </li>
+<li>•   Software Developers </li>
+<li>•   Devops </li>
+</ul>
                              </p>
-                             <p> Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan lacus. Risus commodo viverra sebfd dho eiusmod tempor maecenas accumsan.</p>
+                            
                         </div>
                     </div>
                 </div>

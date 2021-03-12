@@ -55,9 +55,8 @@ $route['translate_uri_dashes'] = FALSE;
 
 
 $route['about-us']='HomeController/about_us';
-$route['contact']='HomeController/contact_us';
+$route['contact-us']='HomeController/contact_us';
 $route['industries-served']='HomeController/industries_served';
 $route['services']='HomeController/services';
-$route['diversity-illusion']='HomeController/diversity_illusion';
-$route['contact-us']='HomeController/contact_us';
+$route['diversity-and-illusion']='HomeController/diversity_illusion';
 $route['faq']='HomeController/faq';
