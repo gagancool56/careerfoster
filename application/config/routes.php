@@ -60,3 +60,4 @@ $route['industries-served']='HomeController/industries_served';
 $route['services']='HomeController/services';
 $route['diversity-and-illusion']='HomeController/diversity_illusion';
 $route['faq']='HomeController/faq';
+$route['services/(:any)']='HomeController/services_manage/$1';

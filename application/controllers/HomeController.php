@@ -37,9 +37,14 @@ class HomeController extends CI_Controller
 	{
 		$this->load->view('diversity_illusion');
 	}
-
 	public function faq()
 	{
 		$this->load->view('faq');
 	}
+
+	public function services_manage($str){
+		$this->load->view('services/'.$str);
+	}
+
+
 }

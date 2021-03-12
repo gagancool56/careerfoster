@@ -81,7 +81,7 @@
                                             <li><a href="<?= base_url() ?>industries-served">Industries Served</a></li>
                                             <li><a href="<?= base_url() ?>services">Services</a>
                                                 <ul class="submenu">
-                                                    <li><a href="blog.html">Executive Search</a></li>
+                                            <li><a href="<?= base_url() ?>services/executive-search">Executive Search</a></li>
                                                     <li><a href="blog_details.html">Senior & middle level hiring</a></li>
                                                     <li><a href="elements.html">Recruitment process outsourcing</a></li>
                                                     <li><a href="elements.html">Market Intelligence</a></li>
