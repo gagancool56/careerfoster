@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Business HTML-5 Template </title>
+	<title><?= ucwords(uri_string()) ?> </title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- <link rel="manifest" href="site.webmanifest"> -->
@@ -67,7 +67,7 @@
                         <!-- Logo -->
                         <div class="col-xl-2 col-lg-2">
                             <div class="logo">
-                                <a href="index.html"><img src="assets/img/logo/logo.png" alt=""></a>
+                                <a href="<?= base_url() ?>"><img src="assets/img/logo/logo.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-xl-10 col-lg-10">

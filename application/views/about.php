@@ -22,8 +22,6 @@
                             <h4>Our Mission</h4>
                             <p>At career foster we focus on Providing Talent and Solutions that Contribute to our client’s Productivity and Success. We pride ourselves with matching exceptional talent with fortune 500 companies and other world- class organizations. Acting as a backbone to our company, our experienced consultants take a multi-pronged approach to hire the best talent. We leverage our extensive internal database, reach out through our own networks, as well as variety of social media channels and rely on traditional search methods’ to help you get a perfection of a candidate. We believe that right candidates are out there and we’ll find them for you!.
                             
-
-
                           <h5>With Career foster’s qualified and experienced consultants, you can expect:</h5>
                            </p>
 
