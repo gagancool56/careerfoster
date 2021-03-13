@@ -30,7 +30,7 @@ class HomeController extends CI_Controller
 
 	public function industries_served()
 	{
-		$this->load->view('industries_served');
+		$this->load->view('industries_served'); 
 	}
 
 	public function diversity_illusion()
