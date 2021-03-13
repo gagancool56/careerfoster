@@ -61,3 +61,7 @@ $route['services']='HomeController/services';
 $route['diversity-and-illusion']='HomeController/diversity_illusion';
 $route['faq']='HomeController/faq';
 $route['services/(:any)']='HomeController/services_manage/$1';
+
+$route['submitcv']='EmailController/submitcv';
+
+

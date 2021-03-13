@@ -8,7 +8,7 @@ class EmailController extends CI_Controller {
 
 	}
 
-	public function justEmail() {
+	public function submitcv() {
 		if ($this->input->post()) {
 			$this->load->library('form_validation');
 
