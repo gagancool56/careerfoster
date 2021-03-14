@@ -1,5 +1,5 @@
 <?php include(APPPATH . 'views/header.php') ?>
-<!--? Hero Start -->
+<!-- Hero Start -->
 <div class="slider-area2">
     <div class="slider-height2 hero-overly2 d-flex align-items-center">
         <div class="container">
@@ -37,10 +37,6 @@
                     </ul>
                     <p> Above all, we offer professional, reliable and honest service, guaranteeing the value of our work and never taking a cookie-cutter approach to consulting.</p>
                     </p>
-
-
-
-
                 </div>
 
                 <div class="about-details-cap mb-50">
