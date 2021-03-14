@@ -151,10 +151,20 @@
                 <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
                     <div class="row">
                         <div class="col-sm-6">
-                            <div class="form-group">
-                                <input class="form-control valid" name="name" id="name" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your name'" placeholder="Enter your name">
-                            </div>
-                        </div>
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="firstname" id="firstname" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter first name'" placeholder="Enter first name">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="lastname" id="lastname" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter last name'" placeholder="Enter last name">
+                                    </div>
+                                </div>
+                                <div class="col-sm-6">
+                                    <div class="form-group">
+                                        <input class="form-control valid" name="phoneno" id="phoneno" type="number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter phone no'" placeholder="Enter phone no">
+                                    </div>
+                                </div>
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" placeholder="Email">

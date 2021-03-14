@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/slick.css">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/nice-select.css">
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/style.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>assets/css/style1.css">
 </head>
 
 <body class="body-bg">
