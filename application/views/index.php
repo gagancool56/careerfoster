@@ -305,20 +305,20 @@ customers.</p>
     </div>
     <!-- Coun Down End -->
     <!-- Team Start -->
-    <div class="team-area section-padding30">
+    <!-- <div class="team-area section-padding30">
         <div class="container">
             <div class="row">
-                <div class="cl-xl-7 col-lg-8 col-md-10">
+                <div class="cl-xl-7 col-lg-8 col-md-10"> -->
                     <!-- Section Tittle -->
-                    <div class="section-tittle mb-70">
+                <!--     <div class="section-tittle mb-70">
                         <span>Our Professional members </span>
                         <h2>Our Team Mambers</h2>
                     </div> 
                 </div>
             </div>
-            <div class="row">
+            <div class="row"> -->
                 <!-- single Tem -->
-                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+               <!--  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                     <div class="single-team mb-30">
                         <div class="team-img">
                             <img src="assets/img/gallery/team2.png" alt="">
@@ -353,7 +353,7 @@ customers.</p>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Team End -->
     <!-- Want To work -->
     <section class="wantToWork-area w-padding2 section-bg" data-background="assets/img/gallery/section_bg03.jpg">

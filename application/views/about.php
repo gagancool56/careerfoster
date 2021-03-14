@@ -77,12 +77,22 @@
                     <!-- Section Tittle -->
                     <div class="section-tittle section-tittle2 mb-50">
                         <span>Our Top Services</span>
-                        <h2>Our Best Services</h2>
+                        <h2>Diversity and Inclusion Recruiters</h2>
                     </div>
                     <div class="support-caption">
-                        <p class="pera-top">Mollit anim laborum duis adseu dolor iuyn voluptcate velit ess cillum dolore egru lofrre dsu quality mollit anim laborumuis au dolor in voluptate velit cillu.</p>
-                        <p class="mb-65">Mollit anim laborum.Dvcuis aute serunt iruxvfg dhjkolohr indd re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt moll.</p>
-                        <a href="about.html" class="btn post-btn">More About Us</a>
+                        <p class="pera-top">Our team of expert HR recruiters source hard-to-find candidates for diversity and inclusion positions. Our diversified recruiting teams are dedicated to the diverse recruitment of high-quality job candidates across all industries for positions in temporary, contract, and permanent roles. We work closely with the employers to strategically meet staffing and supplier diversity needs in alignment with short and long-term business growth goals.</p>
+                                  <p class="pera-top">Our Services in Diversity:-</p>
+                            <ul class="osd">
+    <li>Female Candidates</li>
+<li>Return to work Candidates</li>
+<li>LGBTQ + Community Candidates</li>
+<li>Candidates with Disabilities</li>   
+    
+</ul>
+                          
+
+                           <p class="pera-top mt-3"> Get in touch with us today and let us address your hiring needs with transcendent HR talent.</p>
+                            <a href="<?=base_url()?>more-about-us" class="btn post-btn">More About Us</a>
                     </div>
                 </div>
             </div>
@@ -92,20 +102,20 @@
 </div>
 <!-- About Area End-->
 <!-- Team Start -->
-<div class="team-area section-padding30">
+<!-- <div class="team-area section-padding30">
     <div class="container">
         <div class="row">
-            <div class="cl-xl-7 col-lg-8 col-md-10">
+            <div class="cl-xl-7 col-lg-8 col-md-10"> -->
                 <!-- Section Tittle -->
-                <div class="section-tittle mb-70">
+            <!--     <div class="section-tittle mb-70">
                     <span>Our Professional members </span>
                     <h2>Our Team Mambers</h2>
                 </div>
             </div>
         </div>
         <div class="row">
-            <!-- single Tem -->
-            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+ -->            <!-- single Tem -->
+          <!--   <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                 <div class="single-team mb-30">
                     <div class="team-img">
                         <img src="assets/img/gallery/team2.png" alt="">
@@ -140,7 +150,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- Team End -->
 <!--? Testimonial Start -->
 <div class="testimonial-area testimonial-padding" data-background="assets/img/gallery/section_bg04.jpg">
