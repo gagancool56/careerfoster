@@ -6335,6 +6335,9 @@ hero-btn {
   .comments-area {
     padding: 50px 8px;
   }
+  .logo a img{
+    max-height: 35px;
+  }
 }
 
 /* line 1450, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_blog_page.scss */
