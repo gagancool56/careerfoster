@@ -8260,3 +8260,11 @@ del {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* Custom css with new changes START */
+span.text-danger p{
+  color: red;
+  font-size: 80%;
+}
+/* Custom css with new changes END */

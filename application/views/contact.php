@@ -1,4 +1,4 @@
-<?php include(APPPATH . 'views/header.php') ?>
+<?php include(APPPATH . 'views/header.php'); ?>
 <!--? Hero Start -->
 <div class="slider-area2">
     <div class="slider-height2 hero-overly2 d-flex align-items-center">
@@ -24,18 +24,21 @@
                         <h2 class="card-title">Submit Your CV</h2>
                     </div>
                     <div class="card-body">
-                        <form class="form-contact contact_form" action="<?= base_url() ?>submitcv" method="post" id="submitcv" novalidate="novalidate">
+                        <form class="form-contact contact_form" action="<?= base_url(); ?>submitcv" method="post" id="submitcv" enctype="multipart/form-data">
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="firstname">First Name</label>
-                                        <input class="form-control valid" name="firstname" id="firstname" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter first name'" placeholder="Enter first name">
+                                        <input class="form-control" name="firstname" id="firstname" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter first name'" placeholder="Enter first name" />
+                                        <span class="text-danger"><?= form_error('firstname'); ?></span>
                                     </div>
                                 </div>
+
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="lastname">Last Name</label>
-                                        <input class="form-control valid" name="lastname" id="lastname" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter last name'" placeholder="Enter last name">
+                                        <input class="form-control" name="lastname" id="lastname" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter last name'" placeholder="Enter last name" />
+                                        <span class="text-danger"><?= form_error('lastname'); ?></span>
                                     </div>
                                 </div>
 
@@ -43,12 +46,13 @@
                                     <div class="form-group">
                                         <label for="gender">Gender</label>
                                         <div class="form-select border" id="default-select">
-                                            <select name="gender" id="gender" class="form-control valid">
+                                            <select name="gender" id="gender" class="form-control">
                                                 <option value="">Select Gender</option>
                                                 <option value="Male">Male</option>
                                                 <option value="Female">Female</option>
                                             </select>
                                         </div>
+                                        <span class="text-danger"><?= form_error('gender'); ?></span>
                                     </div>
                                 </div>
 
@@ -56,36 +60,40 @@
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="dob">Date of Birth</label>
-                                        <input class="form-control valid" name="dob" id="dob" type="date" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter DOB'" placeholder="Enter DOB">
+                                        <input class="form-control" name="dob" id="dob" type="date" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter DOB'" placeholder="Enter DOB">
+                                        <span class="text-danger"><?= form_error('dob'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="phoneno">Phone No</label>
-                                        <input class="form-control valid" name="phoneno" id="phoneno" type="number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter phone no'" placeholder="Enter phone no">
+                                        <input class="form-control" name="phoneno" id="phoneno" type="number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter phone no'" placeholder="Enter phone no">
+                                        <span class="text-danger"><?= form_error('phoneno'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="email">Email</label>
-                                        <input class="form-control valid" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" placeholder="Email">
+                                        <input class="form-control" name="email" id="email" type="email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter email address'" placeholder="Email">
+                                        <span class="text-danger"><?= form_error('email'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="location">Location</label>
-                                        <input class="form-control valid" name="location" id="location" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter location '" placeholder="Enter Location">
+                                        <input class="form-control" name="location" id="location" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter location '" placeholder="Enter Location">
+                                        <span class="text-danger"><?= form_error('location'); ?></span>
                                     </div>
                                 </div>
-
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="company">Company</label>
-                                        <input class="form-control valid" name="company" id="company" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Company '" placeholder="Enter Company">
+                                        <input class="form-control" name="company" id="company" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Company '" placeholder="Enter Company">
+                                        <span class="text-danger"><?= form_error('company'); ?></span>
                                     </div>
                                 </div>
 
@@ -93,33 +101,38 @@
                                     <div class="form-group">
                                         <label for="designation">Designation</label>
                                         <input class="form-control" name="designation" id="designation" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Designation'" placeholder="Enter Designation">
+                                        <span class="text-danger"><?= form_error('designation'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="experience">Experience</label>
-                                        <input class="form-control valid" name="experience" id="experience" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter experience '" placeholder="Enter experience (in years)">
+                                        <input class="form-control" name="experience" id="experience" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter experience '" placeholder="Enter experience (in years)">
+                                        <span class="text-danger"><?= form_error('experience'); ?></span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="salary">Salary / CTC</label>
-                                        <input class="form-control valid" name="salary" id="salary" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter salary '" placeholder="Current/Last Annual Salary (INR) ">
+                                        <input class="form-control" name="salary" id="salary" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter salary '" placeholder="Current/Last Annual Salary (INR) ">
+                                        <span class="text-danger"><?= form_error('salary'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="education">Qualification</label>
-                                        <input class="form-control valid" name="education" id="education" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Education '" placeholder="Enter Education">
+                                        <input class="form-control" name="education" id="education" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Education '" placeholder="Enter Education">
+                                        <span class="text-danger"><?= form_error('education'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="institute">Institute Name</label>
-                                        <input class="form-control valid" name="institute" id="institute" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Institute'" placeholder="Enter Institute">
+                                        <input class="form-control" name="institute" id="institute" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Institute'" placeholder="Enter Institute">
+                                        <span class="text-danger"><?= form_error('institute'); ?></span>
                                     </div>
                                 </div>
 
@@ -127,28 +140,32 @@
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="function">Function</label>
-                                        <input class="form-control valid" name="function" id="function" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Function'" placeholder="Enter Function">
+                                        <input class="form-control" name="function" id="function" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Function'" placeholder="Enter Function">
+                                        <span class="text-danger"><?= form_error('function'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="industry">Industry</label>
-                                        <input class="form-control valid" name="industry" id="industry" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Industry'" placeholder="Enter Industry">
+                                        <input class="form-control" name="industry" id="industry" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Industry'" placeholder="Enter Industry">
+                                        <span class="text-danger"><?= form_error('industry'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-6">
                                     <div class="form-group">
                                         <label for="skills">Skills</label>
-                                        <input class="form-control valid" name="skills" id="skills" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter skills'" placeholder="Enter Skills Seprated by (,)">
+                                        <input class="form-control" name="skills" id="skills" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter skills'" placeholder="Enter Skills Seprated by (,)">
+                                        <span class="text-danger"><?= form_error('skills'); ?></span>
                                     </div>
                                 </div>
 
                                 <div class="col-sm-12">
                                     <div class="form-group">
                                         <label for="resume">Upload Resume</label>
-                                        <input type="file" class="form-control" placeholder="resume" aria-label="resume">
+                                        <input type="file" class="form-control" name="resume" placeholder="resume" />
+                                        <span class="text-danger"><?= form_error('resume'); ?></span>
                                     </div>
                                 </div>
 
@@ -157,8 +174,8 @@
                                 <button type="submit" class="button button-contactForm boxed-btn">Submit</button>
                             </div>
                         </form>
-                    </div>
-                </div>
+                    </div> <!-- Card Body End -->
+                </div> <!-- Card End -->
             </div>
             <div class="col-lg-6">
                 <h2 class="contact-title">Questions, Comments, or Feedback?</h2>
@@ -205,4 +222,4 @@
     </div>
 </section>
 <!-- ================ contact section end ================= -->
-<?php include(APPPATH . 'views/footer.php') ?>
+<?php include(APPPATH . 'views/footer.php'); ?>
