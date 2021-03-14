@@ -42,6 +42,16 @@ class HomeController extends CI_Controller
 		$this->load->view('faq');
 	}
 
+	public function more_about_us()
+	{
+		$this->load->view('more_about_us');
+	}
+
+		public function more()
+	{
+		$this->load->view('more');
+	}
+
 	public function services_manage($str){
 		$this->load->view('services/'.$str);
 	}

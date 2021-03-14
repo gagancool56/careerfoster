@@ -62,8 +62,11 @@ We have our mind, heart and soul in business.
                             <span class="flaticon-development"></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Strategy Planning </a></h5>
-                            <p>There are many variations of passages of lorem Ipsum available but the new majority have suffered.</p>
+                            <h5><a href="services.html">Our Leadership Team and Founders  </a></h5>
+                            <p>have a perfect blend of Client serving,
+Recruitment & Policy and governance experts. They have experience working
+with high profile companies and a proven track record of successfully helping
+organizations to grow faster & Recruit the best talent available.</p>
                         </div>
                     </div>
                 </div>
@@ -73,8 +76,15 @@ We have our mind, heart and soul in business.
                             <span class="flaticon-result"></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Insurance Service</a></h5>
-                            <p>There are many variations of passages of lorem Ipsum available but the new majority have suffered.</p>
+                            <h5><a href="services.html">Building a Diversity strategy</a></h5>
+                            <p>Career Foster is one of the best diversity and inclusion consulting firms in India as it offers Posh
+Online, classroom Training, Certification and Diversity inclusion training for employees. Our
+workplace diversity training is designed to increase cultural awareness, encourage empathy, and
+create an inclusive environment. Diversity training helps prevent and identify inappropriate
+behaviour and ensure people of every background are provided equal opportunities and a positive
+work environment to work in. Our diversity offerings have three major components help
+organizations arrive and frame their diversity goal by our experienced diversity consultants and
+develop a project charter with guidelines and draw up a diversity calendar with milestone.</p>
                         </div>
                     </div>
                 </div>
@@ -84,8 +94,12 @@ We have our mind, heart and soul in business.
                             <span class="flaticon-team"></span>
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Audit & Evaluation</a></h5>
-                            <p>There are many variations of passages of lorem Ipsum available but the new majority have suffered.</p>
+                            <h5><a href="services.html">Our Consulting team</a></h5>
+                            <p>It is composed of passionate consultants who are able to
+draw on their recruitment knowledge to make successful and durable matches
+between candidates and employers. We have streamlined our recruitment
+services to create seamless and meaningful interactions with all our
+customers.</p>
                         </div>
                     </div>
                 </div>
@@ -107,12 +121,22 @@ We have our mind, heart and soul in business.
                         <!-- Section Tittle -->
                         <div class="section-tittle section-tittle2 mb-50">
                             <span>Our Top Services</span>
-                            <h2>Our Best Services</h2>
+                            <h2>Diversity and Inclusion Recruiters</h2>
                         </div>
                         <div class="support-caption">
-                            <p class="pera-top">Mollit anim laborum duis adseu dolor iuyn voluptcate velit ess cillum dolore egru lofrre dsu quality mollit anim laborumuis au dolor in voluptate velit cillu.</p>
-                            <p class="mb-65">Mollit anim laborum.Dvcuis aute serunt  iruxvfg dhjkolohr indd re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt moll.</p>
-                            <a href="<?=base_url()?>about" class="btn post-btn">More About Us</a>
+                            <p class="pera-top">Our team of expert HR recruiters source hard-to-find candidates for diversity and inclusion positions. Our diversified recruiting teams are dedicated to the diverse recruitment of high-quality job candidates across all industries for positions in temporary, contract, and permanent roles. We work closely with the employers to strategically meet staffing and supplier diversity needs in alignment with short and long-term business growth goals.</p>
+                            <p class="pera-top">Our Services in Diversity:-</p>
+                            <ul class="osd">
+    <li>Female Candidates</li>
+<li>Return to work Candidates</li>
+<li>LGBTQ + Community Candidates</li>
+<li>Candidates with Disabilities</li>   
+    
+</ul>
+                          
+
+                           <p class="pera-top mt-3"> Get in touch with us today and let us address your hiring needs with transcendent HR talent.</p>
+                            <a href="<?=base_url()?>more-about-us" class="btn post-btn">More About Us</a>
                         </div>
                     </div>
                 </div>
@@ -341,7 +365,7 @@ We have our mind, heart and soul in business.
                     </div>
                 </div>
                 <div class="col-xl-2 col-lg-3 col-md-4">
-                    <a href="#" class="btn btn-black f-right">More About Us</a>
+                    <a href="<?=base_url()?>more" class="btn btn-black f-right">More About Us</a>
                 </div>
             </div>
         </div>
