@@ -34,9 +34,9 @@ class HomeController extends CI_Controller
 		$this->load->view('industries_served');
 	}
 
-	public function diversity_illusion()
+	public function diversity_inclusion()
 	{
-		$this->load->view('diversity_illusion');
+		$this->load->view('diversity_inclusion');
 	}
 	public function faq()
 	{

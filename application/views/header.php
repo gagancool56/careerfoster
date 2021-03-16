@@ -95,7 +95,7 @@
                                                         <li><a href="<?= base_url() ?>services/bulk-recruitment">Bulk Recruitment</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="<?= base_url() ?>diversity-and-illusion">Diversity & Illusion</a></li>
+                                                <li><a href="<?= base_url() ?>diversity-and-inclusion">Diversity & Inclusion</a></li>
                                                 <li><a href="<?= base_url() ?>contact-us">Contact</a></li>
                                                 <li><a href="<?= base_url() ?>faq">FAQ</a></li>
                                             </ul>

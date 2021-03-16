@@ -20,3 +20,16 @@ body
 /*ul li{
 list-style-type: square;
 }*/
+
+.address{
+
+    color: #bdbdbd;
+    font-weight: 300;
+}
+
+.address:hover{
+	
+    color: #fff;
+    cursor: pointer;
+    
+}

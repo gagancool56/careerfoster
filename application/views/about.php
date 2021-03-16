@@ -36,7 +36,7 @@
                         <li> Integrated Recruiting</li>
                     </ul>
                     <p> Above all, we offer professional, reliable and honest service, guaranteeing the value of our work and never taking a cookie-cutter approach to consulting.</p>
-                    </p>
+                    
                 </div>
 
                 <div class="about-details-cap mb-50">

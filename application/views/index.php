@@ -223,7 +223,7 @@ customers.</p>
                                     <path fill-rule="evenodd"  fill="rgb(240, 78, 60)"
                                     d="M57.053,48.209 L42.790,48.209 L52.299,29.242 L38.036,29.242 L38.036,0.790 L66.562,0.790 L66.562,29.242 L57.053,48.209 ZM4.755,48.209 L14.263,29.242 L0.000,29.242 L0.000,0.790 L28.527,0.790 L28.527,29.242 L19.018,48.209 L4.755,48.209 Z"/>
                                     </svg>
-                                    <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis por incididunt ut labore et dolore mas. </p>
+                                    <p>“We have been working with Career Foster since their launch. They understand our businesses and our requirements really well. We wish to extend this relationship going forward."  </p>
                                 </div>
                                 <!-- founder -->
                                 <div class="testimonial-founder d-flex align-items-center justify-content-center">
@@ -231,8 +231,8 @@ customers.</p>
                                         <img src="assets/img/gallery/Homepage_testi.png" alt="">
                                     </div>
                                     <div class="founder-text">
-                                        <span>Jessya Inn</span>
-                                        <p>Chif Photographer</p>
+                                        <span>CEO</span>
+                                        <p>-A leading logistic company.</p>
                                     </div>
                                 </div>
                             </div>
@@ -248,7 +248,7 @@ customers.</p>
                                     <path fill-rule="evenodd"  fill="rgb(240, 78, 60)"
                                     d="M57.053,48.209 L42.790,48.209 L52.299,29.242 L38.036,29.242 L38.036,0.790 L66.562,0.790 L66.562,29.242 L57.053,48.209 ZM4.755,48.209 L14.263,29.242 L0.000,29.242 L0.000,0.790 L28.527,0.790 L28.527,29.242 L19.018,48.209 L4.755,48.209 Z"/>
                                     </svg>
-                                    <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis por incididunt ut labore et dolore mas. </p>
+                                    <p>“Career Foster’s team is exceptionally professional in every aspect. They are always proactive in providing me great talent, very prompt in sharing candidates and arranging interviews.”  </p>
                                 </div>
                                 <!-- founder -->
                                 <div class="testimonial-founder d-flex align-items-center justify-content-center">
@@ -256,8 +256,58 @@ customers.</p>
                                         <img src="assets/img/gallery/Homepage_testi.png" alt="">
                                     </div>
                                     <div class="founder-text">
-                                        <span>Jessya Inn</span>
-                                        <p>Chif Photographer</p>
+                                        <span>Assistant Manager–Talent Acquisition </span>
+                                        <p>-Marsh and McLennan</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+  <div class="single-testimonial text-center">
+                            <!-- Testimonial Content -->
+                            <div class="testimonial-caption ">
+                                <div class="testimonial-top-cap">
+                                    <svg xmlns="http://www.w3.org/2000/svg"
+                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="67px" height="49px">
+                                    <path fill-rule="evenodd"  fill="rgb(240, 78, 60)"
+                                    d="M57.053,48.209 L42.790,48.209 L52.299,29.242 L38.036,29.242 L38.036,0.790 L66.562,0.790 L66.562,29.242 L57.053,48.209 ZM4.755,48.209 L14.263,29.242 L0.000,29.242 L0.000,0.790 L28.527,0.790 L28.527,29.242 L19.018,48.209 L4.755,48.209 Z"/>
+                                    </svg>
+                                    <p>“Career Foster has been a great strategic partner in helping us finding the top tier talent in IT and Analytics domain. Consultants are always updated with the latest news and their TAT is really great.”   </p>
+                                </div>
+                                <!-- founder -->
+                                <div class="testimonial-founder d-flex align-items-center justify-content-center">
+                                    <div class="founder-img">
+                                        <img src="assets/img/gallery/Homepage_testi.png" alt="">
+                                    </div>
+                                    <div class="founder-text">
+                                        <span>TA Head  </span>
+                                        <p>–A fortune 500 Management Consulting firm</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+  <div class="single-testimonial text-center">
+                            <!-- Testimonial Content -->
+                            <div class="testimonial-caption ">
+                                <div class="testimonial-top-cap">
+                                    <svg xmlns="http://www.w3.org/2000/svg"
+                                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                                    width="67px" height="49px">
+                                    <path fill-rule="evenodd"  fill="rgb(240, 78, 60)"
+                                    d="M57.053,48.209 L42.790,48.209 L52.299,29.242 L38.036,29.242 L38.036,0.790 L66.562,0.790 L66.562,29.242 L57.053,48.209 ZM4.755,48.209 L14.263,29.242 L0.000,29.242 L0.000,0.790 L28.527,0.790 L28.527,29.242 L19.018,48.209 L4.755,48.209 Z"/>
+                                    </svg>
+                                    <p>“Career Foster has one of the most impressive team of seasoned professionals who have the distinct ability to surpass client expectations, each time. Their expertise, industry relationships and long term vision has propelled them as one of the best in the business."    </p>
+                                </div>
+                                <!-- founder -->
+                                <div class="testimonial-founder d-flex align-items-center justify-content-center">
+                                    <div class="founder-img">
+                                        <img src="assets/img/gallery/Homepage_testi.png" alt="">
+                                    </div>
+                                    <div class="founder-text">
+                                        <span>Head-Recruitment </span>
+                                        <p>–Ruparel Reality </p>
                                     </div>
                                 </div>
                             </div>
@@ -269,40 +319,40 @@ customers.</p>
     </div>
     <!-- Testimonial End -->
     <!-- Coun Down Start -->
-    <div class="count-down-area pb-120">
+    <!-- <div class="count-down-area pb-120">
         <div class="container">
             <div class="row justify-content-between">
-                <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="col-lg-3 col-md-6 col-sm-6"> -->
                     <!-- Counter Up -->
-                    <div class="single-counter text-center">
+                   <!--  <div class="single-counter text-center">
                         <span class="counter">8705</span>
                         <p>Projects Completed</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="col-lg-3 col-md-6 col-sm-6"> -->
                     <!-- Counter Up -->
-                    <div class="single-counter active text-center">
+                   <!--  <div class="single-counter active text-center">
                         <span class="counter">480</span>
                         <p> Active Clients</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="col-lg-3 col-md-6 col-sm-6"> -->
                     <!-- Counter Up -->
-                    <div class="single-counter text-center">
+                    <!-- <div class="single-counter text-center">
                         <span class="counter">626</span>
                         <p>Cups of Coffee</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="col-lg-3 col-md-6 col-sm-6"> -->
                     <!-- Counter Up -->
-                    <div class="single-counter text-center">
+                   <!--  <div class="single-counter text-center">
                         <span class="counter">9774</span>
                         <p>Happy Clients</p>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Coun Down End -->
     <!-- Team Start -->
     <!-- <div class="team-area section-padding30">
@@ -427,22 +477,16 @@ customers.</p>
         <div class="container">
             <div class="brand-active brand-border pb-40">
                 <div class="single-brand">
-                    <img src="assets/img/gallery/brand1.png" alt="">
+                    <img src="assets/img/gallery/brand6.jpg" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="assets/img/gallery/brand2.png" alt="">
+                    <img src="assets/img/gallery/brand7.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="assets/img/gallery/brand3.png" alt="">
+                    <img src="assets/img/gallery/brand8.png" alt="">
                 </div>
                 <div class="single-brand">
-                    <img src="assets/img/gallery/brand4.png" alt="">
-                </div>
-                <div class="single-brand">
-                    <img src="assets/img/gallery/brand2.png" alt="">
-                </div>
-                <div class="single-brand">
-                    <img src="assets/img/gallery/brand5.png" alt="">
+                    <img src="assets/img/gallery/brand9.png" alt="">
                 </div>
             </div>
         </div>

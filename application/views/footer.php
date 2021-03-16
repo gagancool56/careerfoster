@@ -17,8 +17,9 @@
                                 </div>
                             </div>
                             <div class="footer-number">
-                                <h4><span>+564 </span>7885 3222</h4>
-                                <p>youremail@gmail.com</p>
+                                <h4><span>+91</span>7717303790</h4>
+                                <p>sales@careerfoster.in</p>
+                                 <p>hr@careerfoster.in</p>
                             </div>
                         </div>
                     </div>
@@ -27,16 +28,36 @@
                             <div class="footer-tittle">
                                 <h4>Location </h4>
                                 <ul>
-                                    <li><a href="#">Advanced</a></li>
-                                    <li><a href="#"> Management</a></li>
-                                    <li><a href="#">Corporate</a></li>
-                                    <li><a href="#">Customer</a></li>
-                                    <li><a href="#">Information</a></li>
+                                    <!-- <li><a href="#">Advanced</a></li>
+                                    <li><a href="#"> Management</a></li> -->
+                                    <li class="address">Corporate Office</li>
+                                    <h6 class="address">Career Foster</h6>
+                                    <p class="address">Near JMD Megapolis,Sohna Road,Sector 48,Gurgaon,India</p>
+
+                                  <!--   <li><a href="#">Customer</a></li>
+                                    <li><a href="#">Information</a></li> -->
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-2 col-lg-2 col-md-3 col-sm-5">
+                        <div class="single-footer-caption mb-50">
+                            <div class="footer-tittle">
+                                <!-- <h4>Explore</h4> -->
+                                <ul>
+                                    <li class="address">Branch Office</li>
+                                    <p class="address">Near Madhya Marg,Sector 26,Chandigarh,India</p>
+                                      <p class="address">Registered Office in Ludhiana.</p>
+                                  <!--   <li><a href="#">About</a></li>
+                                    <li><a href="#">Privacy Policy</a></li>
+                                    <li><a href="#">Proparties</a></li>
+                                    <li><a href="#">Licenses</a></li> -->
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+<!-- 
+                      <div class="col-xl-2 col-lg-2 col-md-3 col-sm-5">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
                                 <h4>Explore</h4>
@@ -49,7 +70,7 @@
                                 </ul>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
