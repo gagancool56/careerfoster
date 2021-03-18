@@ -57,10 +57,10 @@
                                 </div>
                                 <div class="header-info-right">
                                     <ul class="header-social">
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li> <a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                        <li><a href="https://www.facebook.com/Career-Foster-103027058542297" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://twitter.com/salescareerfos1" target="_blank"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/company/career-foster-global/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                                        <li> <a href="https://www.instagram.com/careerfoster/" target="_blank"><i class="fab fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -84,7 +84,26 @@
                                             <ul id="navigation">
                                                 <li><a href="<?= base_url() ?>">Home</a></li>
                                                 <li><a href="<?= base_url() ?>about-us">About</a></li>
-                                                <li><a href="<?= base_url() ?>industries-served">Industries Served</a></li>
+                                                <li><a href="<?= base_url() ?>industries-served">Industries Served</a>
+                                                 <ul class="submenu">
+                                        
+                                                 <li><a href="<?= base_url() ?>industries-served/manufacturing-page-and-engineering">Manufacturing Page & Engineering</a></li>  
+                                                 <li><a href="<?= base_url() ?>industries-served/engineering">Engineering</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/automobile-sector">Automobile-Sector</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/banking-financial-services">Banking & Financial-Services</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/health-care">Health-Care</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/retail-and-e-commerce">Retail & E-commerce</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/retail">Retail</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/oil-and-gas-sector">Oil & Gas Sector</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/media-and-entertainment">Media & Entertainment</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/sales-and-marketing">Sales & Marketing</a></li> 
+                                                 <li><a href="<?= base_url() ?>industries-served/marketing">Marketing</a></li> 
+
+                                                 </ul>
+
+                                                </li>
+                                            
+
                                                 <li><a href="<?= base_url() ?>services">Services</a>
                                                     <ul class="submenu">
                                                         <li><a href="<?= base_url() ?>services/executive-search">Executive Search</a></li>
@@ -95,7 +114,11 @@
                                                         <li><a href="<?= base_url() ?>services/bulk-recruitment">Bulk Recruitment</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="<?= base_url() ?>diversity-and-inclusion">Diversity & Inclusion</a></li>
+                                                <li><a href="<?= base_url() ?>diversity-and-inclusion">Diversity & Inclusion</a>
+                                                    <ul class="submenu">
+                                                           <li><a href="<?= base_url() ?>diversity-and-inclusion/why-us">Why Us?</a></li>
+                                                    </ul>
+                                                </li>
                                                 <li><a href="<?= base_url() ?>contact-us">Contact</a></li>
                                                 <li><a href="<?= base_url() ?>faq">FAQ</a></li>
                                             </ul>

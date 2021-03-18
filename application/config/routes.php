@@ -63,6 +63,8 @@ $route['faq']='HomeController/faq';
 $route['more-about-us']='HomeController/more_about_us';
 $route['more']='HomeController/more';
 $route['services/(:any)']='HomeController/services_manage/$1';
+$route['industries-served/(:any)']='HomeController/industries_served_manage/$1';
+$route['diversity-and-inclusion/(:any)']='HomeController/diversity_and_inclusion/$1';
 
 $route['submitcv']='EmailController/submitcv';
 

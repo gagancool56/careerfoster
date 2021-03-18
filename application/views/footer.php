@@ -9,7 +9,7 @@
                         <div class="single-footer-caption mb-50">
                             <!-- logo -->
                             <div class="footer-logo">
-                                <a href="<?= base_url() ?>"><img src="<?= base_url() ?>assets/img/logo/logo2_footer.png" alt=""></a>
+                                <a href="<?= base_url() ?>"><img src="<?= base_url() ?>assets/img/logo/logo.png" alt=""></a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
@@ -44,8 +44,8 @@
                         <div class="single-footer-caption mb-50">
                             <div class="footer-tittle">
                                 <!-- <h4>Explore</h4> -->
-                                <ul>
-                                    <li class="address">Branch Office</li>
+                                    <h4>Branch Office</h4>
+                                    <ul>
                                     <p class="address">Near Madhya Marg,Sector 26,Chandigarh,India</p>
                                       <p class="address">Registered Office in Ludhiana.</p>
                                   <!--   <li><a href="#">About</a></li>
@@ -109,10 +109,10 @@
                     <div class="col-xl-3 col-lg-4">
                         <!-- Footer Social -->
                         <div class="footer-social f-right">
-                            <a href="#"><i class="fab fa-twitter"></i></a>
-                            <a href="https://www.facebook.com/sai4ull"><i class="fab fa-facebook-f"></i></a>
-                            <a href="#"><i class="fas fa-globe"></i></a>
-                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="https://twitter.com/salescareerfos1" target="_blank"><i class="fab fa-twitter"></i></a>
+                            <a href="https://www.facebook.com/Career-Foster-103027058542297" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.linkedin.com/company/career-foster-global/" target="_blank"><i class="fab fa-linkedin-in"></a>
+                            <a href="https://www.instagram.com/careerfoster/" target="_blank"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>

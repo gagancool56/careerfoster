@@ -57,4 +57,14 @@ class HomeController extends CI_Controller
 	{
 		$this->load->view('services/' . $str);
 	}
+
+	public function industries_served_manage($str)
+	{
+		$this->load->view('industries_served/' . $str);
+	}
+
+	public function diversity_and_inclusion($str)
+	{
+		$this->load->view('diversity_and_inclusion/' . $str);
+	}
 }
