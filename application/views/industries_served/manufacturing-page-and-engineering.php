@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-xl-12">
                     <div class="hero-cap hero-cap2 text-center">
-                        <h2>Industries Served</h2>
+                        <h2>Manufacturing Page & Engineering</h2>
                     </div>
                 </div>
             </div>

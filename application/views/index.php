@@ -225,7 +225,7 @@
                             <!-- founder -->
                             <div class="testimonial-founder d-flex align-items-center justify-content-center">
                                 <div class="founder-img">
-                                    <img src="assets/img/gallery/Homepage_testi.png" alt="">
+                                   <!--  <img src="assets/img/gallery/Homepage_testi.png" alt=""> -->
                                 </div>
                                 <div class="founder-text">
                                     <span>CEO</span>
@@ -247,7 +247,7 @@
                             <!-- founder -->
                             <div class="testimonial-founder d-flex align-items-center justify-content-center">
                                 <div class="founder-img">
-                                    <img src="assets/img/gallery/Homepage_testi.png" alt="">
+                                    <!-- <img src="assets/img/gallery/Homepage_testi.png" alt=""> -->
                                 </div>
                                 <div class="founder-text">
                                     <span>Assistant Manager–Talent Acquisition </span>
@@ -269,7 +269,7 @@
                             <!-- founder -->
                             <div class="testimonial-founder d-flex align-items-center justify-content-center">
                                 <div class="founder-img">
-                                    <img src="assets/img/gallery/Homepage_testi.png" alt="">
+                                   <!--  <img src="assets/img/gallery/Homepage_testi.png" alt=""> -->
                                 </div>
                                 <div class="founder-text">
                                     <span>TA Head </span>
@@ -291,7 +291,7 @@
                             <!-- founder -->
                             <div class="testimonial-founder d-flex align-items-center justify-content-center">
                                 <div class="founder-img">
-                                    <img src="assets/img/gallery/Homepage_testi.png" alt="">
+                                  <!--   <img src="assets/img/gallery/Homepage_testi.png" alt=""> -->
                                 </div>
                                 <div class="founder-text">
                                     <span>Head-Recruitment </span>
