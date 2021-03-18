@@ -85,24 +85,24 @@
                                                 <li><a href="<?= base_url() ?>">Home</a></li>
                                                 <li><a href="<?= base_url() ?>about-us">About</a></li>
                                                 <li><a href="<?= base_url() ?>industries-served">Industries Served</a>
-                                                 <ul class="submenu">
-                                        
-                                                 <li><a href="<?= base_url() ?>industries-served/manufacturing-page-and-engineering">Manufacturing Page & Engineering</a></li>  
-                                                 <li><a href="<?= base_url() ?>industries-served/engineering">Engineering</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/automobile-sector">Automobile-Sector</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/banking-financial-services">Banking & Financial-Services</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/health-care">Health-Care</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/retail-and-e-commerce">Retail & E-commerce</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/retail">Retail</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/oil-and-gas-sector">Oil & Gas Sector</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/media-and-entertainment">Media & Entertainment</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/sales-and-marketing">Sales & Marketing</a></li> 
-                                                 <li><a href="<?= base_url() ?>industries-served/marketing">Marketing</a></li> 
+                                                    <ul class="submenu">
 
-                                                 </ul>
+                                                        <li><a href="<?= base_url() ?>industries-served/manufacturing-page-and-engineering">Manufacturing Page & Engineering</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/engineering">Engineering</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/automobile-sector">Automobile-Sector</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/banking-financial-services">Banking & Financial-Services</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/health-care">Health-Care</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/retail-and-e-commerce">Retail & E-commerce</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/retail">Retail</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/oil-and-gas-sector">Oil & Gas Sector</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/media-and-entertainment">Media & Entertainment</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/sales-and-marketing">Sales & Marketing</a></li>
+                                                        <li><a href="<?= base_url() ?>industries-served/marketing">Marketing</a></li>
+
+                                                    </ul>
 
                                                 </li>
-                                            
+
 
                                                 <li><a href="<?= base_url() ?>services">Services</a>
                                                     <ul class="submenu">
@@ -116,7 +116,7 @@
                                                 </li>
                                                 <li><a href="<?= base_url() ?>diversity-and-inclusion">Diversity & Inclusion</a>
                                                     <ul class="submenu">
-                                                           <li><a href="<?= base_url() ?>diversity-and-inclusion/why-us">Why Us?</a></li>
+                                                        <li><a href="<?= base_url() ?>diversity-and-inclusion/why-us">Why Us?</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="<?= base_url() ?>contact-us">Contact</a></li>

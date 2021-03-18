@@ -14,6 +14,7 @@
     </div>
 </div>
 <!-- Hero End -->
+<?php include(APPPATH . 'views/footer.php') ?>
 
 
 
